@@ -1,0 +1,30 @@
+body {
+    background-color: #f0f0f0;
+}
+
+div {
+    border: 1px solid black;
+    background-color: white;
+}
+
+#background{
+    margin: 5%;
+    padding: 10%;
+}
+
+#container{
+    border-style: solid;
+    border-color: black;
+}
+
+#botones input{
+    margin-left: 20%;
+}
+
+.mb-5 {
+    margin-right: 30%;
+}
+
+#menu {
+    color: white;
+}
